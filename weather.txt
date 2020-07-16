@@ -1,0 +1,146 @@
+Getting the weather in: Thanh pho Ho Chi Minh, VN
+Current weather
+
+Request at: 2020-07-16 16:35:23
+Today: Clouds - scattered clouds
+Temp: 32
+Humid: 66 %
+
+Feel like: 35.1
+Wind_speed: 180 m/s
+
+Sun rise at: 2020-07-16 05:38:31
+Sun set at: 2020-07-16 18:19:50
+Cloud: 40 %
+UV index: 12.83
+No rain
+====================================
+
+Forecast for the next 7 days
+
+
+Day 1: 2020-07-17
+Request at: 2020-07-17 11:00:00
+Today: Rain - light rain
+Temp from 26.3 to 33.39
+Feel like
+at day: 34.92
+at night: 30.61
+at evening: 35.06
+at morning: 30.99
+Humid: 60 %
+Wind_speed: 146 m/s
+Sun rise at: 2020-07-17 05:38:46
+Sun set at: 2020-07-17 18:19:46
+Cloud: 1 %
+UV index: 12.87
+No rain
+=============================================
+
+Day 2: 2020-07-18
+Request at: 2020-07-18 11:00:00
+Today: Rain - light rain
+Temp from 26.26 to 34.38
+Feel like
+at day: 37.31
+at night: 30.89
+at evening: 36.82
+at morning: 30.82
+Humid: 58 %
+Wind_speed: 247 m/s
+Sun rise at: 2020-07-18 05:39:00
+Sun set at: 2020-07-18 18:19:42
+Cloud: 10 %
+UV index: 13.48
+No rain
+=============================================
+
+Day 3: 2020-07-19
+Request at: 2020-07-19 11:00:00
+Today: Rain - light rain
+Temp from 26.22 to 33.22
+Feel like
+at day: 35.85
+at night: 31.32
+at evening: 35.82
+at morning: 30.31
+Humid: 59 %
+Wind_speed: 226 m/s
+Sun rise at: 2020-07-19 05:39:14
+Sun set at: 2020-07-19 18:19:36
+Cloud: 100 %
+UV index: 12.59
+No rain
+=============================================
+
+Day 4: 2020-07-20
+Request at: 2020-07-20 11:00:00
+Today: Rain - light rain
+Temp from 25.95 to 33.9
+Feel like
+at day: 34.46
+at night: 30.46
+at evening: 36.07
+at morning: 30.13
+Humid: 62 %
+Wind_speed: 225 m/s
+Sun rise at: 2020-07-20 05:39:28
+Sun set at: 2020-07-20 18:19:30
+Cloud: 100 %
+UV index: 12.81
+No rain
+=============================================
+
+Day 5: 2020-07-21
+Request at: 2020-07-21 11:00:00
+Today: Rain - moderate rain
+Temp from 25.78 to 33.63
+Feel like
+at day: 34.87
+at night: 30.03
+at evening: 35.49
+at morning: 29.49
+Humid: 63 %
+Wind_speed: 191 m/s
+Sun rise at: 2020-07-21 05:39:42
+Sun set at: 2020-07-21 18:19:24
+Cloud: 96 %
+UV index: 12.89
+No rain
+=============================================
+
+Day 6: 2020-07-22
+Request at: 2020-07-22 11:00:00
+Today: Clouds - overcast clouds
+Temp from 25.59 to 33.03
+Feel like
+at day: 34.4
+at night: 29.91
+at evening: 35.77
+at morning: 29.36
+Humid: 63 %
+Wind_speed: 169 m/s
+Sun rise at: 2020-07-22 05:39:55
+Sun set at: 2020-07-22 18:19:16
+Cloud: 100 %
+UV index: 13.42
+No rain
+=============================================
+
+Day 7: 2020-07-23
+Request at: 2020-07-23 11:00:00
+Today: Clear - clear sky
+Temp from 25.53 to 35.33
+Feel like
+at day: 36.03
+at night: 29.95
+at evening: 35.7
+at morning: 29.02
+Humid: 56 %
+Wind_speed: 129 m/s
+Sun rise at: 2020-07-23 05:40:08
+Sun set at: 2020-07-23 18:19:08
+Cloud: 0 %
+UV index: 13.2
+No rain
+=============================================
