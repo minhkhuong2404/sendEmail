@@ -2,7 +2,7 @@ import smtplib
 import ssl
 import datetime
 import imapclient
-
+import os
 import weather, kenh14, NLD, VnExpress
 
 from email import encoders
@@ -11,7 +11,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 server = imapclient.IMAPClient('imap.gmail.com', use_uid=True)
-server.login("13156@student.vgu.edu.vn", "K8Zhe%+e")
+server.login("13156@student.vgu.edu.vn", os.envir.get(email_pass))
 
 # select_info = server.select_folder('INBOX')
 # print('%d messages in INBOX' % select_info[b'EXISTS'])
