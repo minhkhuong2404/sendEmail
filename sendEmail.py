@@ -11,7 +11,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 server = imapclient.IMAPClient('imap.gmail.com', use_uid=True)
-server.login("13156@student.vgu.edu.vn", os.envir.get(email_pass))
+server.login(os.environ.get(email), os.environ.get(email_pass))
 
 # select_info = server.select_folder('INBOX')
 # print('%d messages in INBOX' % select_info[b'EXISTS'])
@@ -26,9 +26,9 @@ NLD.NLD_news()
 subject = "Weather and Hot News Today"
 body = "Email for the weather today and the next 7 days\nAlong the some hot news " \
        "today!\nHappy a good day!\n\n"
-sender_email = "13156@student.vgu.edu.vn"
+sender_email = os.environ.get(email)
 receiver_email = "khuonglu1999@gmail.com"
-password = 'K8Zhe%+e'
+password = os.environ.get(email_pass)
 # eoemtslwmzdabzuo
 # Create a multipart message and set headers
 message = MIMEMultipart()
